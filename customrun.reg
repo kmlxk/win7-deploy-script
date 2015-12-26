@@ -1,0 +1,119 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\cmmgr32.exe]
+@=""
+"Path"=""
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\dvdmaker.exe]
+@="C:\\Program Files (x86)\\DVD Maker\\dvdmaker.exe"
+"Path"=""
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\ep.exe]
+@="D:\\apps\\EditPlus\\editplus.exe"
+"Path"="D:\\apps\\EditPlus\\"
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\excel.exe]
+@="D:\\PROGRA~2\\MICROS~1\\Office15\\EXCEL.EXE"
+"Path"="D:\\Program Files (x86)\\Microsoft Office\\Office15\\"
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\ff.exe]
+@="D:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe"
+"Path"="D:\\Program Files (x86)\\Mozilla Firefox\\"
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\fs.exe]
+@="D:\\apps\\FastStoneCapture\\FSCapture.exe"
+"Path"="D:\\apps\\FastStoneCapture\\"
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\fxp.exe]
+@="D:\\apps\\FlashFXP\\flashfxp.exe"
+"Path"="D:\\apps\\FlashFXP\\"
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\heidisql.exe]
+@="D:\\apps\\HeidiSQL_8.3_Portable\\heidisql.exe"
+"Path"="D:\\apps\\HeidiSQL_8.3_Portable\\"
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\IEXPLORE.EXE]
+@="C:\\Program Files (x86)\\Internet Explorer\\IEXPLORE.EXE"
+"Path"="C:\\Program Files (x86)\\Internet Explorer;"
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\install.exe]
+@=""
+"Path"=""
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\Journal.exe]
+@="C:\\Program Files (x86)\\Windows Journal\\Journal.exe"
+"Path"=""
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\KMPlayer.exe]
+@="d:\\Program Files (x86)\\The KMPlayer\\KMPlayer.exe"
+"Path"=""
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\migwiz.exe]
+@=""
+"Path"=""
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\mip.exe]
+@="C:\\Program Files (x86)\\Common Files\\Microsoft Shared\\Ink\\mip.exe"
+"Path"=""
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\mplayer2.exe]
+@="C:\\Program Files (x86)\\Windows Media Player\\wmplayer.exe"
+"Path"="C:\\Program Files (x86)\\Windows Media Player"
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\ms.exe]
+@="D:\\apps\\MiniSniffer\\MiniSniffer.exe"
+"Path"="D:\\apps\\MiniSniffer\\"
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\MsoHtmEd.exe]
+@=""
+"Path"=""
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\msoxmled.exe]
+@="C:\\Program Files (x86)\\Common Files\\Microsoft Shared\\OFFICE15\\MSOXMLED.EXE"
+"Path"=""
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\pbrush.exe]
+@="C:\\Windows\\System32\\mspaint.exe"
+"Path"="C:\\Windows\\System32"
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\powerpnt.exe]
+@="D:\\PROGRA~2\\MICROS~1\\Office15\\POWERPNT.EXE"
+"Path"="D:\\Program Files (x86)\\Microsoft Office\\Office15\\"
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\PowerShell.exe]
+@="%SystemRoot%\\system32\\WindowsPowerShell\\v1.0\\PowerShell.exe"
+"Path"="%SystemRoot%\\system32\\WindowsPowerShell\\v1.0\\"
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\regex.exe]
+@="D:\\apps\\regex\\RegexTest.exe"
+"Path"="D:\\apps\\regex\\"
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\setup.exe]
+@=""
+"Path"=""
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\sidebar.exe]
+@=""C:\\Program Files (x86)\\Windows Sidebar\\sidebar.exe""
+"Path"=""
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\SnippingTool.exe]
+@="C:\\Windows\\system32\\SnippingTool.exe"
+"Path"=""
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\table30.exe]
+@=""
+"Path"=""
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\TabTip.exe]
+@="C:\\Program Files (x86)\\Common Files\\microsoft shared\\ink\\TabTip.exe"
+"Path"=""
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\TreeSize.exe]
+@="D:\\apps\\TreeSize.chs\\TreeSize.exe"
+"Path"="D:\\apps\\TreeSize.chs\\"
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\vd.exe]
+@="D:\\apps\\VirtuaWin\\VirtuaWin.exe"
+"Path"="D:\\apps\\VirtuaWin\\"
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\vstoee.dll]
+@=""
+"Path"=""
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\wab.exe]
+@="C:\\Program Files (x86)\\Windows Mail\\wab.exe"
+"Path"="C:\\Program Files (x86)\\Windows Mail"
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\wabmig.exe]
+@="C:\\Program Files (x86)\\Windows Mail\\wabmig.exe"
+"Path"=""
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\WinHex.exe]
+@="D:\\apps\\WinHex15.1SR-8\\WinHex.exe"
+"Path"="D:\\apps\\WinHex15.1SR-8\\"
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\WinRAR.exe]
+@="C:\\Program Files (x86)\\WinRAR\\WinRAR.exe"
+"Path"="C:\\Program Files (x86)\\WinRAR"
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\Winword.exe]
+@="D:\\PROGRA~2\\MICROS~1\\Office15\\WINWORD.EXE"
+"Path"="D:\\Program Files (x86)\\Microsoft Office\\Office15\\"
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\wmplayer.exe]
+@="C:\\Program Files (x86)\\Windows Media Player\\wmplayer.exe"
+"Path"="C:\\Program Files (x86)\\Windows Media Player"
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\WORDPAD.EXE]
+@=""C:\\Program Files (x86)\\Windows NT\\Accessories\\WORDPAD.EXE""
+"Path"=""
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\WRITE.EXE]
+@=""C:\\Program Files (x86)\\Windows NT\\Accessories\\WORDPAD.EXE""
+"Path"=""
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\xCrypt.exe]
+@="D:\\apps\\xcrypt\\xCryptGui.exe"
+"Path"="D:\\apps\\xcrypt\\"
